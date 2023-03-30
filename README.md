@@ -6,18 +6,18 @@ The dataset was taken from: https://www.kaggle.com/datasets/lazaro97/the-last-of
 
 For this analysis, I only used the user reviews for the base game i.e. 'user_reviews_g1' dataset.
 
-71.8% of users gave it a perfect 10, which is a considerably high score for a videogame.
+71.1% of users gave it a perfect 10, which is a considerably high score for a videogame.
 
-![newplot](https://user-images.githubusercontent.com/77541950/228784287-8e95c6ff-2fdd-4bba-9a83-60b6726c696c.png)
+![newplot](https://user-images.githubusercontent.com/77541950/228797166-8a1ed875-efdf-4bfb-80a3-09ff9cf3c9c3.png)
 
 The Wordcloud also generated mostly positive words:
 
-![download](https://user-images.githubusercontent.com/77541950/228784437-ddc600ba-6dc0-4ab7-9cb3-62ba34e2ef15.png)
+![download](https://user-images.githubusercontent.com/77541950/228797224-763ec41e-998b-436a-954c-1bef24fb8e58.png)
 
-The Sentimental scores are dominated by Neutrals, although the Positive scores easily overwhelm the Negative ones:
+Most of the Sentimental scores are Neutral, although the Positive score easily overwhelms the Negative one:
 
-Neutral:  1879.25
+Neutral:  1333.69
 
-Positive:  682.85
+Positive:  668.06
 
-Negative:  150.91
+Negative:  145.26
