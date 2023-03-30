@@ -10,12 +10,14 @@ For this analysis, I only used the user reviews for the base game i.e. 'user_rev
 
 ![newplot](https://user-images.githubusercontent.com/77541950/228784287-8e95c6ff-2fdd-4bba-9a83-60b6726c696c.png)
 
-The Wordcloud also mostly positive words:
+The Wordcloud also generated mostly positive words:
 
 ![download](https://user-images.githubusercontent.com/77541950/228784437-ddc600ba-6dc0-4ab7-9cb3-62ba34e2ef15.png)
 
 The Sentimental scores are dominated by Neutrals, although the Positive scores easily overwhelm the Negative ones:
 
 Neutral:  1879.25
+
 Positive:  682.85
+
 Negative:  150.91
