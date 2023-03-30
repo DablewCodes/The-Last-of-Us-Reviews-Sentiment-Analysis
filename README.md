@@ -6,6 +6,8 @@ The dataset was taken from: https://www.kaggle.com/datasets/lazaro97/the-last-of
 
 For this analysis, I only used the user reviews for the base game i.e. 'user_reviews_g1' dataset.
 
+Only cleaning done was to remove non-English reviews because their character encoding made them show up as symbols/non-usable characters
+
 71.1% of users gave it a perfect 10, which is a considerably high score for a videogame.
 
 ![newplot](https://user-images.githubusercontent.com/77541950/228797166-8a1ed875-efdf-4bfb-80a3-09ff9cf3c9c3.png)
